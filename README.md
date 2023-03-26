@@ -1,14 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmytro
 ==============================================================================================================================
 
-Front-end developer
+I am Front-end developer
 -------------------
 
-My hobbies: · 🎣 hunting for predatory fish · 🚴‍♀️ cycling · 🌳🦌 spend time in nature · 📱 gadgets · 💻 and of course the code
+**My hobbies:**
+* 🎣 hunting for predatory fish 
+* 🚴‍♀️ cycling 
+* 🌳🦌 spend time in nature 
+* 📱 gadgets 
+* 💻 and of course the code
 
+###
+###
+**Info:** 
 *   🌍  I'm based in Ukraine, Rivne
 *   ✉️  You can contact me at [frontend.lytvyn@gmail.com](mailto:frontend.lytvyn@gmail.com)
-*   🧠  I'm learning ReactJS, Redux, NextJS. TypeScript### Skills 
+*   🧠  I'm learning ReactJS, Redux, NextJS. TypeScript 
+
+
+### Skills
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -21,12 +33,14 @@ My hobbies: · 🎣 hunting for predatory fish · 🚴‍♀️ cycling · 🌳�
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/lytvyn-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/lytvyn.dimaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/lytvyn-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytvyn-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/frontend.lytvyn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left"><a href="https://www.github.com/lytvyn-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/lytvyn.dimaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/lytvyn-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytvyn-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/frontend.lytvyn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
