@@ -9,7 +9,7 @@ I am Front-end developer
 * 🚴‍♀️ cycling 
 * 🌳🦌 spend time in nature 
 * 📱 gadgets 
-* 💻 and of course the code
+* 💻 and of course coding
 
 ###
 ###
