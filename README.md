@@ -7,9 +7,9 @@ I am Front-end developer
 ###
 ###
 **Info:** 
-*   🌍 based in Ukraine, Rivne
+*   🌍  based in Ukraine, Rivne
 *   ✉️  You can contact me at [frontend.lytvyn@gmail.com](mailto:frontend.lytvyn@gmail.com)
-*   🧠 I'm learning ReactJS, Redux, NextJS. TypeScript 
+*   🧠  I'm learning ReactJS, Redux, NextJS. TypeScript 
 
 **My hobbies:**
 * 🎣 hunting for predatory fish 
