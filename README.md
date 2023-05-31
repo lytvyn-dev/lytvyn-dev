@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), welcome!
 ==============================================================================================================================
 -------------------
 
 ###
-###
 **About me**
 As a Front-end developer with one year of experience, I combine creativity and technical skills to create impressive websites. I specialize in HTML, CSS, and JavaScript to design visually appealing and user-friendly interfaces. I enjoy pushing limits and achieving outstanding outcomes that make a lasting impression. Let's work together to make your digital ideas a reality!
+###
 **Info:** 
 *   🌍  based in Ukraine, Rivne
 *   ✉️  You can contact me at [frontend.lytvyn@gmail.com](mailto:frontend.lytvyn@gmail.com)
