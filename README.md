@@ -2,7 +2,7 @@ Hey, nice to see you,![](https://user-images.githubusercontent.com/18350557/1763
 ---------------------
 ### About me:
 As a Front-end developer with one year of experience, I combine creativity and technical skills to create impressive websites. I specialize in HTML, CSS, and JavaScript to design visually appealing and user-friendly interfaces. I enjoy pushing limits and achieving outstanding outcomes that make a lasting impression. Let's work together to make your digital ideas a reality!
-### Skills
+
 ###
 **Info:** 
 *   🌍  based in Ukraine, Rivne
@@ -15,7 +15,7 @@ As a Front-end developer with one year of experience, I combine creativity and t
 * 📱 gadgets 
 * 💻 and of course coding
 
-
+### Skills
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Redux" /></a>
