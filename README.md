@@ -8,13 +8,6 @@ As a Front-end developer, I combine creativity and technical skills to create im
 *   🌍  based in Ukraine, Rivne
 *   ✉️  You can contact me at [frontend.lytvyn@gmail.com](mailto:frontend.lytvyn@gmail.com)
 
-**My hobbies:**
-* 🎣 hunting for predatory fish 
-* 🚴‍♀️ cycling 
-* 🌳 spend time in nature 
-* 📱 gadgets 
-* 💻 and of course coding
-
 ### Skills
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,6 +23,13 @@ As a Front-end developer, I combine creativity and technical skills to create im
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
+
+**My hobbies:**
+* 🎣 hunting for predatory fish 
+* 🚴‍♀️ cycling 
+* 🌳 spend time in nature 
+* 📱 gadgets 
+* 💻 and of course coding
                     
 ### Socials
                   
