@@ -1,7 +1,9 @@
 Hey, nice to see you,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)!
 ---------------------
 ### About me:
-As a Front-end developer, I combine creativity and technical skills to create impressive websites. I specialize in HTML, CSS, and JavaScript to design visually appealing and user-friendly interfaces. I enjoy pushing limits and achieving outstanding outcomes that make a lasting impression. Let's work together to make your digital ideas a reality!
+As a Front-end developer, I combine creativity and technical skills to create impressive websites. I specialize in HTML, CSS, and JavaScript to design visually appealing and user-friendly interfaces. I enjoy pushing limits and achieving outstanding outcomes that make a lasting impression.
+At the moment, I am participating in TeamChallenge. Our team of 8 people creates a marketplace.
+I am also developing in fullstack to be more flexible and bring more benefit to my future team.
 
 ###
 **Info:** 
